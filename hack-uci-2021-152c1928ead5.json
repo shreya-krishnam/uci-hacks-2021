@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hack-uci-2021-1612001865564",
+  "private_key_id": "152c1928ead534965ddcbc213dc2b3f76c2e9cfd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCGMb0c0cEd1Bsp\n8gKasktbZeReHEi7okqBZBtoHF9qQFJD4BMnqnQK2bs360w+f1AtO3Xf5OYGmUI/\nlmDjLJK5PAa9vUwbAhrFWXQ9Mx8jgkg8+j3VNtnZ1eW8Z6yJsC3f+7a2wBZ3Q7AE\nVhu6Xqi+vxJdhbp0loYbKPdEPk0kaHcHkMRtGfVYqJ7DAAts9YOduml4QMS9OndL\ngOjfnh+C3vhKBjLPS44zDEjjRQDkMZR6JMwRcpkK8fWLpbCkg1jMV30Ls+fI/F44\nbHFOFtyp2v5eSepC9lyDKlZGxRhI9oFr1dI0rPzMr2kwg5XPh5jFbDaJ8VItlbQ2\nuscP4EvZAgMBAAECggEABAd4yeV7Yqmkcic30EzDqfgeefvn7ChUi9uFXiQh8kcB\noVOYR6PczZmZfzWTqbm5Xs5O/Py6sl6GKHIbsR58vk6Q1kAZiaMPyjakIJVJHVAT\nWq9ZzW3S7zE2r2g+fDjbu8KrSwPr+MNBxPOP7BHdB7MlekTiYw9E8gpSGEy1lL76\nGBHUHszXAgpFpojPU5qunmwxJ8F/EycQNOsHg/jlmUhVBIjOxdb9tlfb1vniEbgu\n6KDnIWqqlZfiWeCcsHCzUHg9W1OwFY6WCGEZD3Yd+WRlp3yCGoePMRztWgV26Muc\nqZl625G161NwGjDfEWlc9A5Z5bHSVezk4Vv63K+sQQKBgQC864+tXCloXCSU6141\n7gSNh3EleNFtKqIqMxDeAcQ2UH/TpRZ9hcBmdigWya94lsdOTAkfc4Gf+Oeu/rC6\nrBCBjyAzo+XTMTTPHTco+UrXC7HMr511xNU3UzOAPbBiAicHWTNmOa9ZSQFqC4f+\nPcYPvqJI8q/b14wCHq9qQavXuQKBgQC117aE8xZeffWOeD46ycdmBcnTHLhAXQJZ\nZGJTZVwIM6Yrhjk0uz9NKZyFQQHdkXS696d2lbTeGz+nzBd16jec9zdf1rUlT6aR\nSji0mPH0Lvn+u031tRtst/+fTbLrhJJWGxKBs0xIzIVAusLmmXknRL2j0cVxS5FQ\nv270xUnlIQKBgQCQjx+t4+u7c2Z6nW/FjI/nTFCD/+MgyZK0/8ZUWr2tYgOuC5Ee\nE46Z2KfsZ//hIl73xq7kZho2Mtv1x+WrsaYfvUlCupNN+0URhqWCsN9XlhdDLM4s\nI6WTZBLwekPRexwqP1NZUaKfi4GNh61UGijIO3Mqpqlya4kyxhAsGnxH4QKBgH6F\ng4IHnPXMEDG7qhi/UlTDDEUuQ2jNDhhihyNdb+ZpAWJhNqZg7k9i93uj2oducFiy\nfbs9uKWdMfIvR9eMSnuVatrtCgbW359RlBjcHeT3VowNiNW/2EAR2fLeXfIOwL7W\ngU7rENXKL6D1ESzfdfODmatFBmqo2IflWm9GYf7hAoGAHb5njNbKomIwACPxUG3c\n21P0kdTuQFF1e6JwIiDhteotCtHEEeosMzlB5bTcu+WYxU1nrAo9NhQhD2lQCPuN\nTLa2RWVHNG7ULGzUNIdLy7tTkN/OqNacHiw03y57uOZe/kVDbwCtpQuYxItoHZ5V\n5KsW0MbqSTuH1tD1KRzM3k8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hack-uci-2021-service-account@hack-uci-2021-1612001865564.iam.gserviceaccount.com",
+  "client_id": "116244384747685060864",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hack-uci-2021-service-account%40hack-uci-2021-1612001865564.iam.gserviceaccount.com"
+}
