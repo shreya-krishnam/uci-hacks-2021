@@ -12,3 +12,16 @@ Creating a need of the hour product to assist students in learning and make it h
 Using GCP and their API (Google Cloud Speech-to-Text API), Google Cloud Storage to store files into cloud. We also learnt how to use different NLTK libraries for sentiment analysis and getting the text summary. For the GUI using tkinter we learnt how to use different types of buttons and integrating it to upload an audio file from the user.
 ## What's next for What's next for LECEXT: Lecture Summary Generator
 Our next primary goal is to make it better by giving the user the flexibility to upload any format of audio files not just restricting it to (.wav) file. We also aim to make multiple uploads at the same time in the future. Further, we plan to make LECEXT technology function for on mobile devices. By making the app cross-platform, we can reach a wider customer base, and provide a better user experience. 
+## How to Run the Files
+1. Install these dependencies:
+Python any version(3+)
+sudo apt-get install python3-tk
+pip install pydub
+pip install Wave
+pip install SpeechRecognition
+pip install google-cloud
+pip install --user -U numpy
+pip install --user -U nltk
+pip install networkx
+
+2. Then run button.py file and upload your (.wav) audio file recording.
